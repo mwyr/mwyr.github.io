@@ -1,0 +1,31 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: C++
+  summary: "Primary programming language. Applied mostly to high-performance data processing. Total experience of 7 years both commercial and scientific."
+
+- name: Git
+  summary: "Experienced with git version control system."
+  url: "https://git-scm.com/"
+
+- name: MATLAB
+  summary: "Mostly used for prototyping and data visualisation."
+
+- name: Computational Fluid Dynamics
+  summary: "Experienced in development of WUT in house CFD solver."
+
+- name: MS Office / LaTeX
+  summary: "Experienced in preparation of documents using both MS Office and LaTeX."
+
+- name: Others
+  summary: "Basic experience in: Bash, Python, Subversion, Jenkins, OpenMP, MPI."

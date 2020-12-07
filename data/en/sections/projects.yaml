@@ -1,0 +1,60 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+  
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+
+# your projects
+projects:
+- name: Swarm
+  logo: images/sections/projects/swarm.jpg
+  role: Acting Project Manager, Developer
+  timeline: "Sep 2018 - Present"
+  url: https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/mission-overview
+  summary: Corrective and evolutive maintenance of L1B and L2Cat2 Operational Processors
+  tags: ["professional"]
+
+
+- name: MetopSG
+  logo: images/sections/projects/MetOp-SG-logo.jpg
+  role: Developer
+  timeline: "Sep 2018 - Present"
+  url: https://earth.esa.int/web/eoportal/satellite-missions/m/metop-sg
+  summary: Development and integration of Ground Processor Prototype (GPP) v1.0 (Matlab), Performance-oriented design and Development of Ground Processor Prototype (GPP) v2.0 (C++), Testing and validation of implemented algorithms, Software documentation preparation
+  tags: ["professional"]
+
+- name: 'Book chapter: Second-Order Derivatives for Geometrical Uncertainties.'
+  role: Co-author
+  timeline: "Apr 2018"
+  url: "http://dx.doi.org/10.1007/978-3-319-77767-2_22"
+  summary: 'Chapter in Hirsch, C., Wunsch, D., Szumbarski, J., Łaniewski-Wołłk, L., Pons-Prats, J., eds.: Uncertainty Management for Robust Industrial Design in Aeronautics : Findings and Best Practice Collected During UMRIDA, a Collaborative Research Project (2013-2016) Funded by the European Union. Notes on Numerical Fluid Mechanics and Multidisciplinary Design. Springer International Publishing (2018)'
+  tags: ["academic","cfd"]
+
+- name: 'Article: Residual distribution method for high Reynolds number simulations on complex geometries'
+  role: Co-author
+  timeline: "Feb 2018"
+  url: "https://doi.org/10.1016/j.compfluid.2018.01.028"
+  summary: 'In this paper the application and performance of a Residual Distribution Scheme (RDS) for high Reynolds number, turbulent simulations on complex geometries is presented. The RDS is a numerical method for solving Partial Differential Equations, alternative to the typically used Finite Element and Finite Volume methods.'
+  tags: ["academic","cfd"]
+  
+
+- name: EarthCare
+  logo: images/sections/projects/earthcare.PNG
+  role: Developer
+  timeline: "Sep 2018 - Mar 2019"
+  url: "https://earth.esa.int/web/guest/missions/esa-future-missions/earthcare"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Maintenance of Level 0 and Orbit & Attitude Processing Facilities
+  tags: ["professional", "kubernetes", "cloud"]

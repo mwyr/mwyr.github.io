@@ -1,0 +1,21 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Award Winner
+  image: /images/sections/achievements/gold-medal_vectorsmarket_flaticon.png
+  summary: 1st prize in National competition for the best master thesis on application of numerical methods for simulation of flow and heat transfer problems, Edition 2013. [Link](http://www.itc.polsl.pl/index.php?option=com_content&view=article&id=293:laureaci&catid=36:stypendiakonkursy&Itemid=101&lang=pl)
+- title: Conference organisation
+  image: /images/sections/achievements/presentation_freepik_flaticon.png
+  summary: Member of Local Organising Commitee of the 8th European Postgraduate Fluid Dynamics Conference, Warsaw, 6-9.07.2016 [Link](https://epfdc2016.fuw.edu.pl/contact)
+- title: Graduation with honors
+  image: '/images/sections/achievements/graduated2_freepik_flaticon.png'
+  summary: Received Master of Science (M.Sc.) in Computer Aided Design from Warsaw University of Technology. Graduated with honors.
