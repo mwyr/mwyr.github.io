@@ -15,7 +15,7 @@ company:
   url: "https://www.gmv.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/cv.pdf"
+resume: "files/mwyrozebski_cv.pdf"
 
 # a summary about you
 summary: 'I am a software engineer with scientific background.'
@@ -32,7 +32,7 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/marcin-wyrozebski"
 
-# your soft skills
+# your soft skills 
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:

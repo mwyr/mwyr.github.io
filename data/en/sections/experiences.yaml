@@ -16,25 +16,23 @@ experiences:
       location: Warsaw, Poland
       overview: GMV is a privately owned technological business group with an international presence.
     positions:
-    - designation: Acting Project Manager
-      start: Jul 2020
-      # end: Dec 2020
-      responsibilities:
-      - Activity planning and monitoring progress
-      - Reporting to supervisor and client
-      - Leading the team
-
     - designation: Software Engineer
       start: Sep 2018
       # end: Dec 2020
       responsibilities:
-      - Development and maintenance of software
-      - Performance-oriented design 
+      - Architecture design, development and maintenance of software
       - Testing and validation of implemented algorithms
       - Preparation of documentation
       - Participation in meeting with clients, including presentation of obtained results
-      - Technologies and/or tools used&#58; Matlab, C++, SVN, Git, GitLab, Linux
-  
+      - Technologies and tools used&#58; C++, CMake, Boost.Test, OpenMP, Matlab, Git/GitLab/Subversion, Jenkins, Linux
+      - Projects&#58; EarthCARE L0PF/OAPF, Swarm-DISC L1BOP, MetopSG SCA GPP, Biomass/Flex~L0PF/OAPF
+    - designation: Acting Project Manager
+      start: Jul 2020
+      end: Dec 2020
+      responsibilities:
+      - Activity planning and monitoring progress
+      - Leading the team of developers
+      - Reporting to supervisor and client
   - company:
       name: Warsaw University of Technology
       url: "https://www.pw.edu.pl"
@@ -49,8 +47,7 @@ experiences:
       - Research area&#58; Use of second-order sensitivities for geometrical uncertainty quantification in aerodynamic design
       - Participation in [UMRIDA Project](http://www.umrida.eu/) (European Union FP7)
       - Development of novel numerical uncertainty quantification methods
-      - Development of tools for modelling flow problems
-      - Development of tools for optimization using the adjoint method
+      - Development of tools for modelling flow problems and optimization using the adjoint method
       - Dissemination of results in scientific journals and books
       - Presentation of results at international conferences, e.g. [SIAM UQ16](https://archive.siam.org/meetings/uq16/index.php), [XXIII Fluid Mechanics Conference](http://kkmp2018.wimii.pcz.pl/)
       
