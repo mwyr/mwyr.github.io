@@ -11,6 +11,20 @@ section:
 # Your experiences
 experiences:
   - company:
+      name: Autodesk Sp. z o.o.
+      url: "https://www.autodesk.com"
+      location: Cracow, Poland (Remote)
+      overview: Autodesk is a software corporation that makes software products and services for the architecture, engineering, construction, manufacturing, media, education, and entertainment industries.
+    positions:
+    - designation: Simulation Software Engineer
+      start: Jun 2022
+      # end: 
+      responsibilities:
+      - Development and maintenance of Fusion 360 Generative Design software
+      - Maintenance and new feature development related to shape optimization module
+      - Testing and validation of implemented algorithms
+      - Technologies and tools used&#58; C++, CMake, Git, CI/CD, Jira, Scrum
+  - company:
       name: GMV Innovating Solution Sp. z o.o.
       url: "https://www.gmv.com"
       location: Warsaw, Poland
@@ -18,14 +32,14 @@ experiences:
     positions:
     - designation: Software Engineer
       start: Sep 2018
-      # end: Dec 2020
+      end: May 2022
       responsibilities:
       - Architecture design, development and maintenance of software
       - Testing and validation of implemented algorithms
       - Preparation of documentation
       - Participation in meeting with clients, including presentation of obtained results
       - Technologies and tools used&#58; C++, CMake, Boost.Test, OpenMP, Matlab, Git/GitLab/Subversion, Jenkins, Linux
-      - Projects&#58; EarthCARE L0PF/OAPF, Swarm-DISC L1BOP, MetopSG SCA GPP, Biomass/Flex~L0PF/OAPF
+      - Projects&#58; EarthCARE L0PF/OAPF, Swarm-DISC L1BOP, MetopSG SCA GPP, Biomass/Flex L0PF and OAPF
     - designation: Acting Project Manager
       start: Jul 2020
       end: Dec 2020
