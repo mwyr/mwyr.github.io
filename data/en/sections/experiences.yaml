@@ -16,9 +16,12 @@ experiences:
       location: Cracow, Poland (Remote)
       overview: Autodesk is a software corporation that makes software products and services for the architecture, engineering, construction, manufacturing, media, education, and entertainment industries.
     positions:
+    - designation: Senior Simulation Software Engineer
+      start: Apr 2023
+      # end: 
     - designation: Simulation Software Engineer
       start: Jun 2022
-      # end: 
+      end: Apr 2023
       responsibilities:
       - Development and maintenance of Fusion 360 Generative Design software
       - Maintenance and new feature development related to shape optimization module
